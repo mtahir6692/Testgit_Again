@@ -7,5 +7,6 @@
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/xampp/');
 	exit;
+	// ki
 ?>
 Something is wrong with the XAMPP installation :-(
